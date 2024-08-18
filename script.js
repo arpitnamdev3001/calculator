@@ -1,6 +1,5 @@
 let display = document.querySelector('#display');
-// console.log(display);
-let btns = document.querySelectorAll('.button');
+let btns = document.querySelectorAll('.btn');
 let clear = document.querySelector('.clear');
 let calculate = document.querySelector('.equal');
 
